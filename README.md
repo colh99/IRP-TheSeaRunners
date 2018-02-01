@@ -1,3 +1,3 @@
 # IRP-TheSeaRunners
 
-Independent Reading Project about the novel **The Sea Runners** by Ivan Doig.
+Independent Reading Project about the novel *The Sea Runners* by Ivan Doig.
