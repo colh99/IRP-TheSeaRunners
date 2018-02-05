@@ -1,0 +1,64 @@
+body {
+	background-color:#ffffff;
+	font-family: arial;
+}
+
+p {
+	line-height:200%;
+	letter-spacing: 0.5px;
+}
+
+header {
+	display: block;
+	background-image: url("beach.png");
+	background-size:cover;
+	color:#ffffff;
+	padding: 52px;
+	font-family: arial;
+	line-height:10px;
+	text-align: center;
+}
+
+#title {
+	display: inline-block;
+	padding-left:50px;
+	padding-right:50px;
+	color:white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3364a2;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size:25px;
+    font-family:arial;
+}
+
+/* Change link color on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#home-content {
+	display:block;
+	background-color:white;
+	margin: auto;
+    width: 60%;
+    height: -webkit-fill-available;
+    padding: 10px;
+}
