@@ -54,6 +54,11 @@ li a:hover {
     background-color: #111;
 }
 
+blockquote {
+	border-left:1px solid;
+	padding-left:10px;
+}
+
 #home-content {
 	display:block;
 	background-color:white;
