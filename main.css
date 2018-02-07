@@ -94,6 +94,10 @@ blockquote {
     font-family: 'open-sans', sans-serif;
 }
 
+#home-content a {
+	color:#3364a2;
+}
+
 #page-header {
 	font-family:'Raleway', sans-serif;
 	font-size: 300%;
